@@ -1,6 +1,6 @@
 # TrOCR Handwriting Recognition Model Submission
 
-Submission Date: 2025-04-02 14:23:08
+Submission Date: 2025-04-02 14:32:37
 
 ## Files Included
 
